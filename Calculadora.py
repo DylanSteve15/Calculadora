@@ -1,4 +1,4 @@
-#cambio de proyecto xd
+#cambio de proyecto prueba divisa 
 def conversor_divisas():
     """
     Calculadora de conversión de divisas a pesos colombianos.
@@ -8,7 +8,7 @@ def conversor_divisas():
     """
     
     #1 Tasas de cambio (estas son ficticias, se deben actualizar con valores reales)
-    tasa_dolar = 4100  # 1 USD a COP
+    tasa_dolar = 4000  # 1 USD a COP
     tasa_euro = 4800   # 1 EUR a COP
     tasa_libra = 5400  # 1 GBP a COP
     
